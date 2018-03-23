@@ -1,0 +1,4 @@
+2018-03-23 16:46:53.865  INFO 13164 --- [restartedMain] com.example.demo.BlogApplication         : Starting BlogApplication on DESKTOP-K8ODIS0 with PID 13164 (E:\Java\blog\target\classes started by 海洋之言 in E:\Java\blog)
+2018-03-23 16:46:53.893 DEBUG 13164 --- [restartedMain] com.example.demo.BlogApplication         : Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-03-23 16:46:53.894  INFO 13164 --- [restartedMain] com.example.demo.BlogApplication         : The following profiles are active: dev
+2018-03-23 16:46:55.094  INFO 13164 --- [restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@212a2978: startup date [Fri Mar 23 16:46:55 CST 2018]; root of context hierarchy
